@@ -1,4 +1,4 @@
-before hand:
+#before hand:
 from win32api import *
 from win32con import *
 from win32gui import *
